@@ -1,0 +1,7 @@
+VI Big O
+
+Additional Problems
+
+VI.1
+
+O(b)
