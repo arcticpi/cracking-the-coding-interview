@@ -1,7 +1,11 @@
-VI Big O
+VI Big O - Additional Problems
 
-Additional Problems
-
-VI.1
-
-O(b)
+VI.1 O(b)
+VI.2 O(b)
+VI.3 O(1)
+VI.4 O(a/b)
+VI.5 O(log n)
+VI.6 O(sqrt(n))
+VI.7 O(n), n = # nodes tree
+VI.8 O(n), n = # nodes tree
+VI.9 O(n^2)
