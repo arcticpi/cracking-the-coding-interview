@@ -1,11 +1,14 @@
 VI Big O - Additional Problems
 
-VI.1 O(b)
-VI.2 O(b)
-VI.3 O(1)
-VI.4 O(a/b)
-VI.5 O(log n)
-VI.6 O(sqrt(n))
-VI.7 O(n), n = # nodes tree
-VI.8 O(n), n = # nodes tree
-VI.9 O(n^2)
+  VI.01 O(b)
+  VI.02 O(b)
+  VI.03 O(1)
+  VI.04 O(a / b)
+  VI.05 O(log n)
+* VI.06 O(sqrt(n))
+  VI.07 O(n), n = # nodes tree
+  VI.08 O(n), n = # nodes tree
+  VI.09 O(n^2)
+  VI.10 O(log n)
+  VI.11 O(k * |A|^k), A = { a, b, ..., z }
+  VI.12 O("sort b") + O(a * log b) = O(b * log b + a * log b)
